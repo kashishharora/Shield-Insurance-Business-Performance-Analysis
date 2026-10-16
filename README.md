@@ -2,7 +2,7 @@
 
 An interactive 3-page Power BI dashboard built for a client pilot project at **Shield Insurance**, as part of the **Codebasics Virtual Internship**.
 
-**[View the Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjJiNmI5ZmEtMWNhOS00OTE2LWJjZDMtMmQzNzJmZmM0MDcxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
+**[View the Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjJiNmI5ZmEtMWNhOS00OTE2LWJjZDMtMmQzNzJmZmM0MDcxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)** | **[Watch the Video Walkthrough](https://lnkd.in/p/d62ZYVzW)**
 
 ## Business Problem
 Shield Insurance wanted to understand its customer base, track business performance, and identify opportunities for growth. The client asked for a pilot dashboard to monitor customers, revenue and policies, and to break them down by age group, city and sales mode.
@@ -26,8 +26,9 @@ Filters are available for sales mode, age group, city, month and policy ID.
 - **Power Query** for data preparation
 - **DAX** for measures and KPIs
 
-## Video Walkthrough
-[Watch the project presentation](ADD-YOUR-VIDEO-LINK-HERE)
+## Links
+- [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjJiNmI5ZmEtMWNhOS00OTE2LWJjZDMtMmQzNzJmZmM0MDcxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- [Video Walkthrough (LinkedIn)](https://lnkd.in/p/d62ZYVzW)
 
 ## Author
 **Kashish Arora**, Fresher Data Analyst
